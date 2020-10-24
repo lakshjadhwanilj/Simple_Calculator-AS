@@ -9,7 +9,6 @@
     <color name="white">#FFFFFF</color>
     <color name="orange">#D6895E</color>
     <color name="colorPrimary">#008577</color>
-<!--    primary/secondary: 373331, colorAccent: D6895E, D81B60-->
     <color name="colorSecondary">#00574B</color>
     <color name="colorAccent">#D6895E</color>
 </resources>
